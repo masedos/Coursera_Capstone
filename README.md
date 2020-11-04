@@ -6,11 +6,14 @@
 
 Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science 
 
-Final Report - [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
 
-Final Project Code - [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
+Report:  [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
 
-Porfolio - http://masedos.github.io/
+Notebook:  [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
+
+Presentation: [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
+
+Blogpost:  http://masedos.github.io/
 
 Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/ 
 
