@@ -15,7 +15,7 @@ Presentation: [Github](https://github.com/masedos/Coursera_Capstone/blob/main/We
 
 Blogpost:  https://masedos.github.io/Coursera_Capstone
 
-Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/ 
+Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/D5RTDKYFCAXR 
 
 
 ### Peer-graded Assignment: Capstone Project Notebook's
