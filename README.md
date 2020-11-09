@@ -7,11 +7,11 @@
 Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science 
 
 
-Report:  [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
+Report: [Github](https://github.com/masedos/Coursera_Capstone/blob/main/Week%205/Report_v2.pdf)
 
-Notebook:  [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
+Notebook: [Github](https://github.com/masedos/Coursera_Capstone/blob/main/Week%205/The_Battle_of_Neighborhoods_Week_2_Part_2.ipynb)
 
-Presentation: [IBM Cloud](https://dataplatform.cloud.ibm.com) - [Github](https://github.com/masedos/Coursera_Capstone/tree/main/Week%203)
+Presentation: [Github](https://github.com/masedos/Coursera_Capstone/blob/main/Week%205/Presentation.pdf)
 
 Blogpost:  http://masedos.github.io/
 
