@@ -13,7 +13,7 @@ Notebook: [Github](https://github.com/masedos/Coursera_Capstone/blob/main/Week%2
 
 Presentation: [Github](https://github.com/masedos/Coursera_Capstone/blob/main/Week%205/Presentation.pdf)
 
-Blogpost:  http://masedos.github.io/
+Blogpost:  https://masedos.github.io/Coursera_Capstone
 
 Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/ 
 
